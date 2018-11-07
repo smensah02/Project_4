@@ -1,4 +1,4 @@
-# Project_4
+# Predicting The Presence of West Nile Virus in Chicago
 ## Group Project 
 ### Contributors: 
 Omar Carr – Data Scientist
